@@ -62,10 +62,6 @@ pip install -r requirements.txt
 
 3. Explore the results and visualizations generated in each section.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was developed as part of a bachelor's thesis at DTU Compute. Special thanks to the advisors and peers who supported the work.
@@ -74,7 +70,6 @@ This project was developed as part of a bachelor's thesis at DTU Compute. Specia
 
 For questions or suggestions, feel free to contact:
 
-- **Author Name**: [Your Email]
-- GitHub: [Your GitHub Profile]
+- **Gustav Jacobsen**: Gustav.h.jacobsen@gmail.com
 
 Enjoy exploring uncertainty quantification in machine learning! 🎉
